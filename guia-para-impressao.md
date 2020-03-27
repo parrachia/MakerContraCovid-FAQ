@@ -18,47 +18,40 @@ Há dois modelos desenvolvidos pelo Prusa
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p></p>
-        <p>
-          <img src=".gitbook/assets/selection_313.png" alt/>
-        </p>
+        <img src=".gitbook/assets/selection_313.png" alt/>
       </td>
       <td style="text-align:left">
-        <p>1</p>
-        <p><b>N&#xE3;o imprimir esse modelo</b>
+        <p><del>1</del>
+        </p>
+        <p>N&#xE3;o imprimir esse modelo
           <br />
         </p>
       </td>
       <td style="text-align:left">
-        <p>23
-          <br />
+        <p><del>23</del>
         </p>
-        <p><b>N&#xE3;o imprimir esse modelo</b>
+        <p>N&#xE3;o imprimir esse modelo
           <br />
         </p>
       </td>
       <td style="text-align:left">
-        <p>Modelo RC1
-          <br />
+        <p><del>Modelo RC1</del>
         </p>
-        <p><b>N&#xE3;o imprimir esse modelo</b>
-        </p>
+        <p>N&#xE3;o imprimir esse modelo</p>
       </td>
       <td style="text-align:left">
-        <p>Pode acontecer o empenamento (warp).</p>
-        <p>Se ocorrer, utilize uma saia (brim) de 6mm<b><br /></b>
+        <p><del>Pode acontecer o empenamento (warp). </del>
         </p>
-        <p><b>N&#xE3;o imprimir esse modelo</b>
+        <p><del>Se ocorrer, utilize uma saia (brim) de 6mm</del>
+        </p>
+        <p>N&#xE3;o imprimir esse modelo
           <br />
         </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <p></p>
-        <p>
-          <img src=".gitbook/assets/selection_314.png" alt/>
-        </p>
+        <img src=".gitbook/assets/selection_314.png" alt/>
       </td>
       <td style="text-align:left">2</td>
       <td style="text-align:left">38</td>
@@ -73,6 +66,28 @@ Há dois modelos desenvolvidos pelo Prusa
           <br />
         </p>
         <p>Se ocorrer, utilize uma saia (brim) de 6mm</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <img src=".gitbook/assets/selection_316.png" alt/>
+      </td>
+      <td style="text-align:left">2 (empilh&#xE1;vel)</td>
+      <td style="text-align:left">40</td>
+      <td style="text-align:left">
+        <p><a href="https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3">Modelo RC3</a>
+        </p>
+        <p>N&#xC3;O imprimir o bottom reinforcement
+          <br />
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>Pode acontecer o empenamento (warp).
+          <br />
+        </p>
+        <p>Se ocorrer, utilize uma saia (brim) de 6mm
+          <br />
+        </p>
       </td>
     </tr>
   </tbody>
