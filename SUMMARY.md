@@ -1,7 +1,12 @@
 # Table of contents
 
-* [MakerContraCovid-FAQ](README.md)
-* [Sobre o Face Shield](sobre-o-face-shield.md)
-* [Fluxo de trabalho do Crowdsourcing](fluxo-de-trabalho-do-crowdsourcing.md)
+* [Documentação para produção de FaceShields](README.md)
+* [Fluxo do Crowdsourcing](fluxo-de-trabalho-do-crowdsourcing.md)
 * [Protocolo de Limpeza](protocolo-de-limpeza.md)
+
+## Sobre os modelos
+
+* [Guia para Impressão](sobre-os-modelos/guia-para-impressao.md)
+* [Recomendações e Definições](sobre-os-modelos/sobre-o-face-shield.md)
+* [Comparativo](sobre-os-modelos/comparativo.md)
 
