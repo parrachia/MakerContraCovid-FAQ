@@ -1,4 +1,4 @@
-# Protocolo de Limpeza
+# Limpeza
 
 Manter o ambiente de trabalho é fundamental para que as peças fabricadas possam ser seguras para os profissionais de saúde. As máscaras serão esterilizadas assim que chegarem às unidades de saúde mas para garantir que não haja contágio do vírus no transporte ou pré esterilização devemos tomar alguns cuidados. 
 

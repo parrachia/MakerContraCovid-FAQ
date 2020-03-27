@@ -1,4 +1,4 @@
-# Comparativo
+# Comparativos
 
 ![](https://lh6.googleusercontent.com/smgq44QlN3Z2GNj95p8Anw7TRkWcrapvqcc41XOU9I945fvojgTECa0iOMMVbvlUy-ahqwzB9p6eM9UTaz5d7kokaXmmkM6GxWYUTadDxdRM1PUUpq-77dLH-B_Plsd5vj-RUBG9)
 

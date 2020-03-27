@@ -1,90 +1,91 @@
-# Guia para Impressão
+# Impressão
 
+## Modelos para Impressão
 
-
-## **Modelos para Impressão**
-
-**Há dois modelos desenvolvidos pelo Prusa, ambos estão aptos ao uso**  
+Há dois modelos desenvolvidos pelo Prusa  
 
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Modelo</b>
-      </th>
-      <th style="text-align:left"><b>Tempo de impress&#xE3;o estimado (h)</b>
-      </th>
-      <th style="text-align:left"><b>Material estimado (g)</b>
-      </th>
-      <th style="text-align:left"><b>Link</b>
-      </th>
-      <th style="text-align:left"><b>Problemas na impress&#xE3;o Encontrados</b>
-      </th>
+      <th style="text-align:left">Modelo</th>
+      <th style="text-align:left">Tempo de impress&#xE3;o estimado (h)</th>
+      <th style="text-align:left">Material estimado (g)</th>
+      <th style="text-align:left">Link</th>
+      <th style="text-align:left">Problemas na impress&#xE3;o Encontrados</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"></td>
       <td style="text-align:left">
-        <p><b>1</b>
-        </p>
-        <p><b>N&#xE3;o imprimir esse modelo<br /></b>
+        <p></p>
+        <p>
+          <img src=".gitbook/assets/selection_313.png" alt/>
         </p>
       </td>
       <td style="text-align:left">
-        <p><b>23<br /></b>
-        </p>
-        <p><b>N&#xE3;o imprimir esse modelo<br /></b>
+        <p>1</p>
+        <p><b>N&#xE3;o imprimir esse modelo</b>
+          <br />
         </p>
       </td>
       <td style="text-align:left">
-        <p><b>Modelo RC1<br /></b>
+        <p>23
+          <br />
+        </p>
+        <p><b>N&#xE3;o imprimir esse modelo</b>
+          <br />
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>Modelo RC1
+          <br />
         </p>
         <p><b>N&#xE3;o imprimir esse modelo</b>
         </p>
       </td>
       <td style="text-align:left">
-        <p><b>Pode acontecer o empenamento (warp). </b>
+        <p>Pode acontecer o empenamento (warp).</p>
+        <p>Se ocorrer, utilize uma saia (brim) de 6mm<b><br /></b>
         </p>
-        <p><b>Se ocorrer, utilize uma saia (brim) de 6mm</b>
-        </p>
-        <p><b>N&#xE3;o imprimir esse modelo<br /></b>
+        <p><b>N&#xE3;o imprimir esse modelo</b>
+          <br />
         </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"><b>2</b>
+      <td style="text-align:left">
+        <p></p>
+        <p>
+          <img src=".gitbook/assets/selection_314.png" alt/>
+        </p>
       </td>
-      <td style="text-align:left"><b>38</b>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">38</td>
+      <td style="text-align:left">
+        <p><a href="https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2">Modelo RC2</a>
+        </p>
+        <p>Imprimir somente o headband RC2</p>
+        <p>N&#xC3;O imprimir o bottom reinforcement</p>
       </td>
       <td style="text-align:left">
-        <p><a href="https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2"><b>Modelo RC2</b></a>
+        <p>Pode acontecer o empenamento (warp).
+          <br />
         </p>
-        <p><b>Imprimir somente o headband RC2</b>
-        </p>
-        <p><b>N&#xC3;O imprimir o bottom reinforcement</b>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p><b>Pode acontecer o empenamento (warp).<br /></b>
-        </p>
-        <p><b>Se ocorrer, utilize uma saia (brim) de 6mm</b>
-        </p>
+        <p>Se ocorrer, utilize uma saia (brim) de 6mm</p>
       </td>
     </tr>
   </tbody>
-</table>## **Parâmetros de impressão** 
+</table>## Parâmetros de impressão 
 
 {% hint style="danger" %}
-**ATENÇÃO: Não reduzir os parâmetros para ganhar tempo, isso vai custar qualidade**
+ATENÇÃO: Não reduzir os parâmetros para ganhar tempo, isso vai custar qualidade
 {% endhint %}
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Par&#xE2;metros</b>
-      </th>
+      <th style="text-align:left">Par&#xE2;metros</th>
       <th style="text-align:left">Valores</th>
     </tr>
   </thead>

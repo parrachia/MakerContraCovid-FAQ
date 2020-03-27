@@ -20,11 +20,11 @@ O Makers Contra o Covid-19 é um grupo autônomo que se organizou a partir da ne
 
 Para ajudar a população a enfrentar a pandemia do COVID 19 através da produção de máscaras de proteção faciais, também chamadas de viseiras \(face shields\). Essa máscara é um EPI \(Equipamento de Proteção Individual\) para profissionais de saúde que trabalham em contato direto com os infectados.
 
-### Makers do Brasil, uní-vos!
-
 ## Responda o formulário abaixo para indicar como você pode ajudar:
 
 [gg.gg/cadastro3DcontraCOVID](http://gg.gg/cadastro3DcontraCOVID)
+
+> **Makers do Brasil, uní-vos!**
 
 ## Perguntas Frequentes
 
